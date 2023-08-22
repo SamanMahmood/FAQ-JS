@@ -44,6 +44,20 @@ const FAQQuestion = [
         8.Server-Side Runtime (e.g., Node.js)
         9.Data Visualization (e.g., D3.js)
         10.AJAX Libraries (e.g., Axios, jQuery)`,
+  },{
+    id: 8,
+    question: `What is Salesforce development, and what does it involve?`,
+    answer: ` Salesforce development refers to the creation and customization of applications and solutions on the Salesforce platform. It involves developing and configuring features, workflows, user interfaces, and integrations to meet specific business needs. Salesforce developers use technologies like Apex (a proprietary programming language), Visualforce (for UI development), and Lightning components to build and extend Salesforce functionality.`,
+  },
+  {
+    id: 9,
+    question: `What is the difference between UI design and UX design?`,
+    answer: `UI design focuses on the aesthetics and visual elements of a product, ensuring that it looks appealing and is user-friendly. UX design, on the other hand, concentrates on the overall experience a user has with a product, emphasizing usability, accessibility, and user satisfaction. While UI design deals with the layout, colors, and graphics, UX design involves user research, wireframing, and prototyping to create an intuitive and enjoyable interaction between the user and the product. Both UI and UX design are essential for creating successful and user-centric applications.`,
+  },
+  {
+    id: 10,
+    question: `What is Software Quality Assurance (SQA)?`,
+    answer: `Software Quality Assurance (SQA) testing is a systematic process that ensures the quality, reliability, and performance of software applications. It involves activities like test planning, test case creation, execution, and defect tracking to identify and rectify issues in the software. SQA is crucial in software development because it helps detect and address defects early in the development cycle, ensuring a high-quality end product, reducing the cost of fixing issues post-release, and enhancing user satisfaction. It also helps in compliance with industry standards and regulations.`,
   },
 ];
 
